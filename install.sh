@@ -25,7 +25,7 @@
 # Description
 # This script removes the browser-interface to control the RPi Cam. It can be run
 # on any Raspberry Pi with a newly installed raspbian and enabled camera-support.
-# Based on RPI_Cam_WEb_Interface by Silvan Melchior
+# Based on raspimjpeg by Silvan Melchior
 # Edited by Edgar Bermudez Contreras
  
 
