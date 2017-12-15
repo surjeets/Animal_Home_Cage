@@ -1,7 +1,9 @@
 Animal Home Cage Monitoring System with GPIO Controls
 
 Step 1: Install Raspbian on your RPi
+
 Step 2: Attach camera to RPi and enable camera support (http://www.raspberrypi.org/camera)
+
 Step 3: Update your RPi with the following commands:
 
 sudo apt-get update
