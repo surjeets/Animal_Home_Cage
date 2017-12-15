@@ -1,0 +1,21 @@
+#g2,#g3,#g4,#g7,#g8,#g9,#g10,#g11,#g14,#g15,
+#g17,#g18,#g22,#g23,#g24,#g25,#g27{
+position:absolute;
+background-color:#09f;
+color:white;
+width:14%;
+height:7%;
+transition: transform .4s, color .4s, background-color .4s;
+border:0.1px solid white;
+border-radius:5px;}
+
+#g2:hover,#g3:hover,#g4:hover,#g7:hover,#g8:hover,
+#g9:hover,#g10:hover,#g11:hover,#g14:hover,#g15:hover,
+#g17:hover,#g18:hover,#g22:hover,#g23:hover,
+#g24:hover,#g25:hover,#g27:hover{
+background-color:white;
+color:#09f;
+box-shadow: 4px 5px 16px 0px rgba(0, 0, 0, .2);
+border:.1px solid white;
+cursor:pointer;
+/*transform: rotate(-360deg);*/}
