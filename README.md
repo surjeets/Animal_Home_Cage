@@ -16,9 +16,13 @@ cd Animal_Home_Cage
 ./install.sh
 
 To stop the interface run:
+
 cd Animal_Home_Cage
+
 ./stop.sh
 
 To remove the interface run:
+
 cd Animal_Home_Cage
+
 ./remove.sh
