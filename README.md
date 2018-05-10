@@ -32,6 +32,14 @@ cd Animal_Home_Cage
 
 ```
 ## Commands ##
+To start the interface run:
+
+```
+cd Animal_Home_Cage
+
+./start.sh
+
+```
 
 To stop the interface run:
 
