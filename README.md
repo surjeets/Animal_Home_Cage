@@ -3,7 +3,10 @@
 The animal home-cage monitoring system is a raspberryPi based solution for automated behavior
 monitoring of rodents. This system uses a picam (prefereably IR) to record video in the home-cage.
 
-## Install ##
+In this implementation, the RPi runs an apache webserver that streams video allowing the user to remotely monitor animal behavior. In addition, the system allows the user to change the camera settings and the interaction between the RPi and the peripherials (LEDs, speakers, etc) in the cage via the GPIO pins.
+
+
+## Installation ##
 
 - Step 1: Install Raspbian on your RPi
 
@@ -29,6 +32,14 @@ cd Animal_Home_Cage
 
 ```
 ## Commands ##
+To start the interface run:
+
+```
+cd Animal_Home_Cage
+
+./start.sh
+
+```
 
 To stop the interface run:
 
